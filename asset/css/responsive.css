@@ -196,5 +196,18 @@
     .manipulation-item{
         flex-wrap: wrap;
     }
-   
 }
+    
+    @media only screen and (max-width: 374px){
+        .input-group-text__icon{
+            padding-left: 9px;
+            padding-right: 9px;
+        }
+        .nav-logo {
+            margin: 0;    
+        }
+        .input-search.navbar-search {
+            width: 176px;
+            padding-left: 5px;
+        }
+    }
