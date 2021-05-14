@@ -211,6 +211,10 @@
             width: 200px;
             padding-left: 10px;
         }
+        .manipulation-img img {
+            width: 60px;
+            height: 60px;
+        }
     }
     @media only screen and (max-width: 342px){
 
